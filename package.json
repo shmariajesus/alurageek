@@ -1,0 +1,22 @@
+{
+  "name": "alurageek",
+  "version": "1.0.0",
+  "description": "Challenge AluraGeek",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./database/db.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmariajesus/alurageek.git"
+  },
+  "author": "Maria Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shmariajesus/alurageek/issues"
+  },
+  "homepage": "https://github.com/shmariajesus/alurageek#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
